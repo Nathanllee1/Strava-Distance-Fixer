@@ -18,19 +18,19 @@
     "default": {
         "backports.functools-lru-cache": {
             "hashes": [
-                "sha256:9d98697f088eb1b0fa451391f91afb5e3ebde16bbdb272819fd091151fda4f1a",
-                "sha256:f0b0e4eba956de51238e17573b7087e852dfe9854afd2e9c873f73fc0ca0a6dd"
+                "sha256:d5ed2169378b67d3c545e5600d363a923b09c456dab1593914935a68ad478271",
+                "sha256:dbead04b9daa817909ec64e8d2855fb78feafe0b901d4568758e3a60559d8978"
             ],
             "markers": "python_version < '3'",
-            "version": "==1.5"
+            "version": "==1.6.4"
         },
         "beautifulsoup4": {
             "hashes": [
-                "sha256:1ed70a0e99742653953d68462378a1a8eb65dca5f7c8fa44a05a2a0b3545df67",
-                "sha256:6a7f5e0efc563cd1ffeefba6d528b97aa0d313c02dd126ba6c455e5fe5bd48eb",
-                "sha256:e394827904cc4923f443e8dd2e9968343669c8e1ad7a8d62d7541e780884acb8"
+                "sha256:4c98143716ef1cb40bf7f39a8e3eec8f8b009509e74904ba3a7b315431577e35",
+                "sha256:84729e322ad1d5b4d25f805bfa05b902dd96450f43842c4e99067d5e1369eb25",
+                "sha256:fff47e031e34ec82bf17e00da8f592fe7de69aeea38be00523c04623c04fb666"
             ],
-            "version": "==4.7.0"
+            "version": "==4.9.3"
         },
         "bs4": {
             "hashes": [
@@ -49,17 +49,19 @@
         },
         "soupsieve": {
             "hashes": [
-                "sha256:057e08f362a255b457a5781675211556799ed3bb8807506eaac3809390bc304b",
-                "sha256:f7d99b41637be2f249dfcc06ae93c13fcbbdfa7bb68b15308cdd0734e58146f1"
+                "sha256:7985bacc98c34923a439967c1a602dc4f1e15f923b6fcf02344184f86cc7efaa",
+                "sha256:feb1e937fa26a69e08436aad4a9037cd7e1d4c7212909502ba30701247ff8abd"
             ],
-            "version": "==1.6.1"
+            "markers": "python_version < '3.0'",
+            "version": "==1.9.6"
         },
         "urllib3": {
             "hashes": [
-                "sha256:61bf29cada3fc2fbefad4fdf059ea4bd1b4a86d2b6d15e1c7c0b582b9752fe39",
-                "sha256:de9529817c93f27c8ccbfead6985011db27bd0ddfcdb2d86f3f663385c6a9c22"
+                "sha256:753a0374df26658f99d826cfe40394a686d05985786d946fbe4165b5148f5a7c",
+                "sha256:a7acd0977125325f516bda9735fa7142b909a8d01e8b2e4c8108d0984e6e0098"
             ],
-            "version": "==1.24.1"
+            "index": "pypi",
+            "version": "==1.26.5"
         }
     },
     "develop": {}
